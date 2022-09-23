@@ -1,2 +1,3 @@
 Coba membuat file di repository github
 Belajar mengedit file
+kok di git pull kagak bisa yak
